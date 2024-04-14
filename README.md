@@ -55,5 +55,5 @@ Inference: Once trained, the model can be used for inference on new sentences to
 The results of the grammatical error detection model, including accuracy and other evaluation metrics, are presented in the notebook and can be further analyzed and visualized.
 
 Also get two output file:
-                  1.output_file_only_labeled (The output file which contains only lebels.)  
+                  1.output_file_only_labeled(The output file which contains only lebels.)  
                   2.outpu_file (Which contains both labels and type of the error)
